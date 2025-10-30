@@ -1,0 +1,3 @@
+[submodule "git-sub-sandbox"]
+	path = git-sub-sandbox
+	url = https://github.com/rei-asafina/git-sub-sandbox.git
